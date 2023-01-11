@@ -1,4 +1,26 @@
-[# GIF
+# Banners
+
+<img src="https://raw.githubusercontent.com/faroukx/farouk-vault/main/Banners/Aesthetic-bathtub-japan.webp">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Aesthetic-cat-Japan.png?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Aesthetic-city.jpeg?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/JapanHimeji.jpeg?raw=true">
+
+<img src="https://raw.githubusercontent.com/faroukx/farouk-vault/main/Banners/aesthetic-office.webp">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/backgroundjapanvibe.jpeg?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/cooljapanbackground.jpeg?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/samuraigirl.jpeg?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/tokyocity.jpg?raw=true">
+
+
+
+# GIF
 
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/Senkuwalking1x1.gif?raw=true">
 
@@ -8,5 +30,5 @@
 
 
 
-# JPG/PNG
-](https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/Senkuwalking1x1.gif?raw=true)
+
+

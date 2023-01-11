@@ -1,9 +1,12 @@
-# GIF
+[# GIF
 
-<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/Senkuwalking1x1.gif>
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/Senkuwalking1x1.gif?raw=true">
+
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/shibabanner1x1.gif?raw=true">
+
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/obsidian-workspace.gif?raw=true">
 
 
 
 # JPG/PNG
+](https://github.com/faroukx/farouk-vault/blob/main/Banners/Gif/Senkuwalking1x1.gif?raw=true)

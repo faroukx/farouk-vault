@@ -1,6 +1,8 @@
 # Banners
 
-<img src="https://raw.githubusercontent.com/faroukx/farouk-vault/main/Banners/Aesthetic-bathtub-japan.webp">
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/lofi%20coffe%20shop.jpg?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Aesthetic-bathtub-japan.jpg?raw=true">
 
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Aesthetic-cat-Japan.png?raw=true">
 
@@ -8,7 +10,7 @@
 
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/JapanHimeji.jpeg?raw=true">
 
-<img src="https://raw.githubusercontent.com/faroukx/farouk-vault/main/Banners/aesthetic-office.webp">
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/aesthetic-office.jpg?raw=true">
 
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/backgroundjapanvibe.jpeg?raw=true">
 

@@ -1,5 +1,9 @@
 # Banners
 
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/lofi%20room.jpg?raw=true">
+
+<img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/lofi%20library.jpeg?raw=true">
+
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/lofi%20coffe%20shop.jpg?raw=true">
 
 <img src="https://github.com/faroukx/farouk-vault/blob/main/Banners/Aesthetic-bathtub-japan.jpg?raw=true">
